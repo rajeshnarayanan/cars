@@ -1,6 +1,5 @@
-"cars" : {
-	[
-		{
+{
+	"cars": [{
 			"year": 2000,
 			"color": "black",
 			"make": "Honda",
